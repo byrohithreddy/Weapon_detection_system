@@ -30,7 +30,7 @@ This project is a simple yet powerful implementation of a real-time weapon (gun)
 
 ## 🚀 How to Run
 ```bash
-python weapon_detection.py
+python main.py
 ```
 - Press `q` to exit the live video feed.
 
